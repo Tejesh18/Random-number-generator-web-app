@@ -1,4 +1,3 @@
-# Random-number-generator-web-app
 # DevProjects - Random number generator web app
 
 This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
